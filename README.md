@@ -1,6 +1,1 @@
-### Hi there 👋
-
-
-![Tanmai's GitHub stats](https://github-readme-stats-tanmaik.vercel.app/api?username=tanmaik&count_private=true&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats-tanmaik.vercel.app/api/top-langs/?username=tanmaik)
+![Metrics](https://metrics.lecoq.io/tanmaik?template=classic&isocalendar=1&repositories=1&code=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=America%2FNew_York)
