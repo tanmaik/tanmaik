@@ -1,5 +1,3 @@
 🙋‍♂️ Hi there, I'm Tanmai 
 
-Check me out at [ashburncomputing.com](https://www.ashburncomputing.com) and [my personal website](https://www.tanmai.org).
-
-My headlining project is [gradsteps.com](https://www.gradsteps.com). 
+Working on [gradsteps.com](https://www.gradsteps.com). 
