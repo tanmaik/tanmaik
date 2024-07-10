@@ -1,3 +1,3 @@
-🙋‍♂️ Hi there, I'm Tanmai 
+tanmai
 
-Working on [gradsteps.com](https://www.gradsteps.com). 
+[gradsteps.com](https://www.gradsteps.com) and more otw
