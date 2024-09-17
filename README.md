@@ -1,3 +1,1 @@
-tanmai
-
-[gradsteps.com](https://www.gradsteps.com) and more otw
+i am the founder of [Perceptron Labs](https://www.perceptron.so).
